@@ -5,8 +5,14 @@ On another note, here are the quick notes I took from last class on the navigati
 Finally, I have also been brainstorming "taglines" for The Peak, and while I'm sure they are all awful, I've included them below:
 
 Shenandoah’s overlook into the worlds of our writers.
+
 Shenandoah’s space for immediate creativity.
+
 New words, earnest dialogue.
+
 Constancy and sharp insights: Shenandoah’s The Peak. 
+
 From the vantage point of our fixations: Shenandoah’s The Peak.
+
 Shenandoah’s The Peak: Above the fray, a place for more.
+
