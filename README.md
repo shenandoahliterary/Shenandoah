@@ -3,6 +3,7 @@
 Project management for development and production of Shenandoah literary magazine
 
 # **Website Updates To Think About and/or Execute**
+These items are submitted by Beth.
 
 ## **Navigation**
 
