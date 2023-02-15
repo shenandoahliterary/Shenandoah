@@ -16,9 +16,8 @@ These items are submitted by Beth.
 
 ## **Translations**
 
- \[ \] How to toggle/naviate between two versions?
-
-*    [ ]  Audio files added to translations
+*   [ ] How to toggle/naviate between two versions?
+*   [ ] Audio files added to translations
 
 ## **The Peak Changes**
 
