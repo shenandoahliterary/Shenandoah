@@ -71,17 +71,22 @@ These items are submitted by Beth.
 
 **The Peak**
 
-*    [ ]  Add an about 'what is this' section
-*    [ ]  Organize by section (conversations, behind the essay, etc.)
-*    [ ]  Get rid of 1 - 5 page counter
-*    [ ]  Reformat the page from new to old
-*    [ ]  Link to other aticles/work of the author
+*   [ ] Add an about 'what is this' section
+*   [ ] Organize by section (conversations, behind the essay, etc.)
+*   [ ] Get rid of 1 - 5 page counter
+*   [ ] Reformat the page from new to old
+*   [ ] Link to other aticles/work of the author
 
 Restructure submit page to make more accessible. 
 
 *   [ ] add text boxes
-*    [ ]  condense information to be more user friendly
+*   [ ] condense information to be more user friendly
 
 Overall
 
-*    [ ]  Add years to issues to imitate current issue cover
+*   [ ] Add years to issues to imitate current issue cover
+
+## Misc
+
+*    [ ]  back issues converted to current style
+*    [ ]  integrate author index 1950 - current
