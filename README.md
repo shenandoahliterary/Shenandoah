@@ -16,7 +16,7 @@ These items are submitted by Beth.
 
 ## **Translations**
 
-*   [ ] How to toggle/naviate between two versions?
+*   [ ] How to toggle/naviate between two versions? https://github.com/shenandoahliterary/Shenandoah/issues/112
 *   [ ] Audio files added to translations
 
 ## **The Peak Changes**
