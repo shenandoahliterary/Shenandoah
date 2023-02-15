@@ -8,15 +8,17 @@ These items are submitted by Beth.
 
 ## **Navigation**
 
-*    [ ]  Way to click through from piece to piece within issue
-*    [ ]  Way to navigate through pieces by subject or topic (see poetry.org)
-*    [ ]  Way to navigate from work to articles in The Peak and back
-*    [ ]  Way to to navigate between writers' multiple pieces (even across issues) \[examples on poetry.org\]
-*    [ ]  How to tell which issue (or date) a piece is from when you navigate right to it, i.e., direct link
+*   [ ] Way to click through from piece to piece within issue
+*   [ ] Way to navigate through pieces by subject or topic (see poetry.org)
+*   [ ] Way to navigate from work to articles in The Peak and back
+*   [ ] Way to to navigate between writers' multiple pieces (even across issues) \[examples on poetry.org\]
+*   [ ] How to tell which issue (or date) a piece is from when you navigate right to it, i.e., direct link
 
 ## **Translations**
 
-**adsfadf**
+ \[ \] How to toggle/naviate between two versions?
+
+*    [ ]  Audio files added to translations
 
 ## **The Peak Changes**
 
